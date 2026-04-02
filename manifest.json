@@ -1,6 +1,6 @@
 {
-  "name": "POPKID AI",
-  "short_name": "POPKID",
+  "name": "KERVENS AI",
+  "short_name": "KERVENS",
   "description": "Powerful AI Assistant powered by Popkid",
   "start_url": "./index.html",
   "display": "standalone",
