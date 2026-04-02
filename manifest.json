@@ -1,7 +1,7 @@
 {
   "name": "KERVENS AI",
   "short_name": "KERVENS",
-  "description": "Powerful AI Assistant powered by Popkid",
+  "description": "Powerful AI Assistant powered by Kervens",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#07090f",
