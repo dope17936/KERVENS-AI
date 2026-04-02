@@ -1,4 +1,4 @@
-const CACHE_NAME = 'popkid-ai-v1';
+const CACHE_NAME = 'kervens-ai-v1';
 const ASSETS = [
   './',
   './index.html',
